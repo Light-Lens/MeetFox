@@ -43,4 +43,4 @@ def sign_in(meetingID, passCode):
 
 os.system('title MeetFox')
 os.system('color fc')
-sign_in("347 539 8797", "mlzs")
+sign_in("Your metting id", "Your metting password")
